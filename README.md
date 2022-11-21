@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kirichenec
 - 👀 I’m interested in C#, .NET, WPF, Avalonia
-- 🌱 I’m currently learning: Avalonia, .NET 6
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning: Avalonia, .NET 7
+<!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: here + gmail
 
 <!---
